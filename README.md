@@ -72,6 +72,7 @@ jarvis-advanced/
 ├── script.js              # JavaScript logic (optional separate file)
 └── assets/                # Images & icons
 ```
+<img width="1910" height="1058" alt="jarvis" src="https://github.com/user-attachments/assets/988a6c0b-444f-4a7c-8046-379b80722a0d" />
 
 ---
 
